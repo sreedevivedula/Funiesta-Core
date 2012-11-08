@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Funiesta-Core.iml" filepath="$PROJECT_DIR$/Funiesta-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/Funiesta-Web/Funiesta-Web.iml" filepath="$PROJECT_DIR$/modules/Funiesta-Web/Funiesta-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/login/login.iml" filepath="$PROJECT_DIR$/modules/login/login.iml" />
+    </modules>
+  </component>
+</project>
+

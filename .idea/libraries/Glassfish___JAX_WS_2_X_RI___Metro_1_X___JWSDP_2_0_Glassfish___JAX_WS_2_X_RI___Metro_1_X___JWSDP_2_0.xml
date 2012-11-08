@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Glassfish / JAX-WS 2.X RI / Metro 1.X / JWSDP 2.0-Glassfish / JAX-WS 2.X RI / Metro 1.X / JWSDP 2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/FastInfoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/http.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jsr173_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/jsr250-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/resolver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/sjsxp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Funiesta-Web/lib/streambuffer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
